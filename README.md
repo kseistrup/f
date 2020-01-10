@@ -2,6 +2,11 @@
 
 Easily select a range of fields separated by blanks
 
+**Motivation:**
+
+* `cut(1)` operates on a single field separator only
+* `awk(1)` will not let you select a range of fields
+
 ```
 Usage: f [OPTIONS] [FIELDS]
 
