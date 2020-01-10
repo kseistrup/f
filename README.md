@@ -1,2 +1,2 @@
 # f
-Easily select a range of fields separated with blanks
+Easily select a range of fields separated by blanks
