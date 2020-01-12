@@ -1,3 +1,7 @@
+**N.B.:** This script is now included in [filters](https://github.com/kseistrup/filters): https://github.com/kseistrup/filters
+
+----
+
 # f
 
 Easily select a range of fields separated by blanks
